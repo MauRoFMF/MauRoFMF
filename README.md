@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mauro
-- 👀 I’m interested in learning programming 🖥️, VTT 🚴‍ and esports 🎮♂.
+- 👀 I’m interested in learning programming 🖥️, VTT 🚴‍,esports 🎮 and football ⚽.
 - 🌱 I’m currently learning the Fondations on The Odin Project.
 - 💞️ I’m looking to collaborate in the future
 - 📫 You can reach me on twitter.
